@@ -5,7 +5,7 @@
 - 📫 How to reach me: I have an email 📧paurushbatishfbd@gmail.com. 
 - ⚡ Fun fact: Playing dance music can help ward off mosquitoes 🦟
 
-[![Paurush's GitHub stats](https://github-readme-stats.vercel.app/api?username=paurush11&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Paurush's GitHub stats](https://github-readme-stats-blush-eight.vercel.app/api?username=paurush11&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
