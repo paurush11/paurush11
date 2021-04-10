@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Paurush Batish 👋
 
 - 🔭 I’m currently working on Flutter Android Studio Projects
 - 🌱 I’m currently learning DS Algo 
