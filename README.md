@@ -8,3 +8,5 @@
 [![Paurush's GitHub stats](https://github-readme-stats.vercel.app/api?username=paurush11&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paurush11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paurush11&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
