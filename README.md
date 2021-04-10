@@ -10,9 +10,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paurush11&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  [![Paurush's GitHub stats](https://github-readme-stats.vercel.app/api?username=paurush11&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paurush11&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-</a>
+<
